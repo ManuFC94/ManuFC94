@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 ✔️I’m currently working on my own projects  🔭<br>✔️I’m looking to collaborate with other developers 🤝<br>✔️I’m currently learning web development🌱<br>✔️Ask me about web-design usability 💬 <br>✔️Cybersecurity and data protection 🔒<br>✔️Im looking for team working ⚡
 
 
