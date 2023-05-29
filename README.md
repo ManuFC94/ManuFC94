@@ -13,9 +13,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://devhumor.com/" width="512px"/> 
+<img src="https://rm.up.railway.app/" width="512px"/> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TigScript&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  https://rm.up.railway.app/-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
